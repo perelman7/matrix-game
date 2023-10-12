@@ -1,4 +1,4 @@
-## Matrix game (link on project: )
+## Matrix game (link on project: https://github.com/perelman7/matrix-game)
 
 ### This is game application where:
 1. You send 2 parameters: url to configuration file (in file is located where you run the application, you send just filename), and bet amount
